@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @bigyanse
+👋 Hi, I’m @bigyanse
+
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning about Distributed Systems.
 - 💞️ I’m looking for opportunities to collaborate on open-source projects.
