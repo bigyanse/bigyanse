@@ -22,5 +22,6 @@ I am a software engineer with expertise in Node.js, JavaScript, TypeScript and R
 ---
 
 ### ✍️ Blog Posts : 
+- [A Beginner's Guide to Implementing Message Queue](https://blog.bigyandahal.com/a-beginners-guide-to-implementing-message-queue)
 - [Insights Into Software Architecture](https://blog.bigyandahal.com/insights-into-software-architecture)
 - [How to create a password generator using JavaScript(Node.js)?](https://blog.bigyandahal.com/how-to-create-a-password-generator-using-javascriptnodejs)
