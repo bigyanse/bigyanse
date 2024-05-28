@@ -15,7 +15,7 @@ I am a software engineer with expertise in Node.js, JavaScript, TypeScript and R
 
 <p align="center">
   <a href="https://bigyandahal.com">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,typescript,react,redux,nodejs,express,python,flask,django,java,mongodb,postgresql,mysql,git,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,typescript,react,redux,nodejs,express,python,flask,django,java,mongodb,postgresql,mysql,git,linux,bash,docker,kubernetes" />
   </a>
 </p>
 
