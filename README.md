@@ -2,10 +2,8 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a software engineer with expertise in Node.js, JavaScript, TypeScript and React.
+I am a software engineer with over 2 years of experience in web development.
 
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning about System Design.
 - 💞️ I’m looking for opportunities to collaborate on [blango](https://github.com/bigyanse/blango) or any open-source projects.
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/bigyanse), [Twitter](https://twitter.com/bigyanse), [Facebook](https://facebook.com/bigyanse)
 
