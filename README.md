@@ -14,7 +14,7 @@ I am a software engineer with over 2 years of experience in web development.
 
 <p align="center">
   <a href="https://bigyandahal.com">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,typescript,react,redux,nodejs,express,nestjs,nextjs,python,flask,django,java,mongodb,postgresql,mysql,git,linux,windows,nix,bash,powershell,go,docker,kubernetes,prometheus,grafana" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,typescript,react,redux,nodejs,express,nestjs,nextjs,php,wordpress,laravel,python,flask,django,java,mongodb,postgresql,mysql,git,linux,windows,nix,bash,powershell,go,docker,kubernetes,prometheus,grafana" />
   </a>
 </p>
 
