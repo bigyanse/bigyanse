@@ -5,7 +5,7 @@
 I am a software engineer with over 2 years of experience in web development.
 
 <!-- - 🧑‍💻 I am currently -->
-- 💞️ I’m looking for opportunities to collaborate on [blango](https://github.com/bigyanse/blango) or any open-source projects.
+- 🤝 I’m looking for opportunities to collaborate on [blango](https://github.com/bigyanse/blango) or any open-source projects.
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/bigyanse)
 
 ---
