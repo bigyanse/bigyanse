@@ -18,9 +18,9 @@ I am a software engineer with over 2 years of experience in web development.
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,typescript,react,redux,nodejs,electron,express,nestjs,nextjs,php,wordpress,laravel,python,flask,django,java,mongodb,postgresql,mysql,git,linux,windows,nix,bash,powershell,go,rust,tauri,docker,kubernetes,prometheus,grafana,aws,azure" />
   </a>
 </p>
+-->
 
 ---
--->
 
 ### ✍️ Blog Posts : 
 - [Building Performant Server-Side Applications using Node.js Clusters](https://blog.bigyandahal.com/building-performant-server-side-applications-using-nodejs-clusters)
