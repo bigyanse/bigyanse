@@ -8,6 +8,7 @@ I am a software engineer with over 2 years of experience in web development.
 - 🤝 I’m looking for opportunities to collaborate on [blango](https://github.com/bigyanse/blango) or any open-source projects.
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/bigyanse)
 
+<!--
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -19,6 +20,7 @@ I am a software engineer with over 2 years of experience in web development.
 </p>
 
 ---
+-->
 
 ### ✍️ Blog Posts : 
 - [Building Performant Server-Side Applications using Node.js Clusters](https://blog.bigyandahal.com/building-performant-server-side-applications-using-nodejs-clusters)
