@@ -9,7 +9,6 @@ I am a software engineer with over 2 years of experience in web development.
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/bigyanse)
 
 <!--
----
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -19,8 +18,6 @@ I am a software engineer with over 2 years of experience in web development.
   </a>
 </p>
 -->
-
----
 
 ### ✍️ Blog Posts : 
 - [Building Performant Server-Side Applications using Node.js Clusters](https://blog.bigyandahal.com/building-performant-server-side-applications-using-nodejs-clusters)
